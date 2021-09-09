@@ -35,4 +35,5 @@ Pull requests are always welcome!
 - [Neural-MMO](https://jsuarez5341.github.io/) - A massively multiagent game environment for training and evaluating intelligent agents.
 
 # Algorithm Implementations
-
+- [PyMARL](https://github.com/oxwhirl/pymarl) - WhiRL's framework for deep multi-agent reinforcement learning and includes implementations of QMIX, COMA, VDN, IQL, and QTRAN (only cooperative MARL).
+- [Extended-PyMARL](https://github.com/uoe-agents/epymarl) - An extension of the above, with the addition of IA2C, IPPO, MADDPG, MAA2C and MAPPO. Also improves the consistency of the implementations for fair comparisons.
