@@ -9,7 +9,18 @@ Pull requests are always welcome!
 
 # Table of Contents
 
-
+- [Awesome Multi-Agent Reinforcement Learning](#awesome-multi-agent-reinforcement-learning)
+- [Contributing](#contributing)
+- [Table of Contents](#table-of-contents)
+- [Theory & Reading Material](#theory--reading-material)
+  - [Papers](#papers)
+    - [Core (must read!)](#core-must-read)
+    - [Surveys](#surveys)
+    - [Cooperative MARL](#cooperative-marl)
+    - [Opponent Modelling](#opponent-modelling)
+  - [Other reading material (blogs, websites, videos)](#other-reading-material-blogs-websites-videos)
+- [Environments](#environments)
+- [Algorithm Implementations](#algorithm-implementations)
 
 # Theory & Reading Material
 
@@ -19,8 +30,6 @@ Pull requests are always welcome!
 ### Cooperative MARL
 ### Opponent Modelling
 
-
-## Lectures
 ## Other reading material (blogs, websites, videos)
 
 # Environments
