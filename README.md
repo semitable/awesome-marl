@@ -34,8 +34,8 @@ Pull requests are always welcome!
 
 # Environments
 
-- [Level-based Foraging](www.github.com/semitable/lb-foraging) -  mixed cooperative-competitive game, which focuses on the coordination of the agents involved.
-- [Multi-Robot Warehouse](www.github.com/semitable/robotic-warehouse) - A simulated warehouse with robots moving and delivering requested goods.
+- [Level-based Foraging](https://github.com/semitable/lb-foraging) -  mixed cooperative-competitive game, which focuses on the coordination of the agents involved.
+- [Multi-Robot Warehouse](https://github.com/semitable/robotic-warehouse) - A simulated warehouse with robots moving and delivering requested goods.
 - [StarCraft Multi-agent Challenge](https://github.com/oxwhirl/smac) - A decentralised micromanagement scenarios built on StarCraft II.
 - [Multi-agent Particle Environment](https://github.com/openai/multiagent-particle-envs) - A diverse set of 2D tasks involving cooperation and competition between agents.
 - [Malmö](https://github.com/microsoft/malmo) - An environment built on top of Minecraft. Also see [MarLÖ](https://github.com/crowdAI/marLo) (short for Multi-Agent Reinforcement Learning in MalmÖ).
